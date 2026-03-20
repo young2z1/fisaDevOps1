@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.fisa.ce.Step06BuildGradleTestApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-20T06:47:29.917Z" hostname="1-19" time="2.33">
+  <properties/>
+  <testcase name="contextLoads()" classname="edu.fisa.ce.Step06BuildGradleTestApplicationTests" time="0.732"/>
+  <system-out><![CDATA[15:47:30.103 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [edu.fisa.ce.Step06BuildGradleTestApplicationTests]: Step06BuildGradleTestApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:47:30.191 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration edu.fisa.ce.Step06BuildGradleTestApplication for test class edu.fisa.ce.Step06BuildGradleTestApplicationTests
+15:47:30.267 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [edu.fisa.ce.Step06BuildGradleTestApplicationTests]: Step06BuildGradleTestApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:47:30.268 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration edu.fisa.ce.Step06BuildGradleTestApplication for test class edu.fisa.ce.Step06BuildGradleTestApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.4)
+
+2026-03-20T15:47:30.559+09:00  INFO 9160 --- [step06_buildGradleTest] [    Test worker] .c.Step06BuildGradleTestApplicationTests : Starting Step06BuildGradleTestApplicationTests using Java 17 with PID 9160 (started by 1-19 in C:\ce6\04.SpringBoot\step06_buildGradleTest)
+2026-03-20T15:47:30.561+09:00  INFO 9160 --- [step06_buildGradleTest] [    Test worker] .c.Step06BuildGradleTestApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2026-03-20T15:47:31.500+09:00  INFO 9160 --- [step06_buildGradleTest] [    Test worker] .c.Step06BuildGradleTestApplicationTests : Started Step06BuildGradleTestApplicationTests in 1.186 seconds (process running for 2.351)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
